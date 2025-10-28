@@ -1,7 +1,11 @@
 # python-all-built-in-functions
 A collection of Python built-in functions with examples and explanations for beginners.
 
+## File
+- `python-all-built-in-functions.ipynb`
 
+You can view it directly on GitHub or open in Google Colab:  
+https://colab.research.google.com/github/<datascikhan>/python-built-in-functions/blob/main/python_built_in_functions.ipynb
 
 
 # 📘 Python Built-in Functions Masterclass: Complete Guide for Beginners to Advanced
